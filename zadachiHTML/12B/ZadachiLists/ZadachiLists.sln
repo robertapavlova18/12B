@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZadachiLists", "ZadachiLists\ZadachiLists.csproj", "{25C45632-3DE9-4526-B9B6-1714B69E1A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Negatives and Reverse", "Remove Negatives and Reverse\Remove Negatives and Reverse.csproj", "{76AA3BC5-5EE8-4760-808D-71B8471E49A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25C45632-3DE9-4526-B9B6-1714B69E1A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C45632-3DE9-4526-B9B6-1714B69E1A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C45632-3DE9-4526-B9B6-1714B69E1A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C45632-3DE9-4526-B9B6-1714B69E1A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76AA3BC5-5EE8-4760-808D-71B8471E49A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AA3BC5-5EE8-4760-808D-71B8471E49A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AA3BC5-5EE8-4760-808D-71B8471E49A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AA3BC5-5EE8-4760-808D-71B8471E49A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950D3E29-7115-4191-8A88-E135ED96F4C8}
+	EndGlobalSection
+EndGlobal
